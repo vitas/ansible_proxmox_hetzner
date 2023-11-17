@@ -76,7 +76,7 @@ hetzner_pve_opnsense_vm_settings:
   disk_size: +7G
   wan_bridge: vmbr0
   lan_bridge: vmbr99
-  url: https://mirror.fra10.de.leaseweb.net/opnsense/releases/22.7/OPNsense-22.7-OpenSSL-nano-amd64.img.bz2
+  url: https://mirror.fra10.de.leaseweb.net/opnsense/releases/23.7/OPNsense-23.7-OpenSSL-nano-amd64.img.bz2
 
 hetzner_pve_opnsense_settings:
   - system/dnsallowoverride: "1"
